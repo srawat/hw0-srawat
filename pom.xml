@@ -48,7 +48,7 @@
 							<goal>perform</goal>
 						</goals>
 						<configuration>
-							<pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+							<pomFileName>hw0-srawat/pom.xml</pomFileName>
 						</configuration>
 					</execution>
 				</executions>
