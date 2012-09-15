@@ -18,8 +18,6 @@ public class DependencyExample {
 	 *            Set the first argument as the sentence to be tokenized.
 	 */
 	public static void main(String[] args) {
-		args = new String[1];
-		args[0] = "I’m feeling good!";
 		TokenizerFactory<Word> factory = PTBTokenizerFactory
 				.newTokenizerFactory();
 		Tokenizer<Word> tokenizer = factory.getTokenizer(new StringReader(
