@@ -5,7 +5,7 @@
 	<artifactId>hw0-srawat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<developerConnection>srawat</developerConnection>
+		<developerConnection>scm:git:git@github.com:srawat/hw0-srawat.git</developerConnection>
 		<connection>scm:git:git@github.com:srawat/hw0-srawat.git</connection>
 	</scm>
 	<organization>
