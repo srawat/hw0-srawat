@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
 		<developerConnection>srawat</developerConnection>
-		<connection>scm:git:git://github.com/srawat/hw0-srawat.git</connection>
+		<connection>scm:git:git@github.com:srawat/hw0-srawat.git</connection>
 	</scm>
 	<organization>
 		<name>CMU</name>
